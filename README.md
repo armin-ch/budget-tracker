@@ -29,4 +29,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 This app is deployed to Heroku. https://arcane-escarpment-43935.herokuapp.com/
 
+## Screenshot
+
+![screenshot](/images/logo.png)
+
 
